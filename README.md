@@ -1,2 +1,2 @@
 # company-hub
-testing
+Company-hub application.
