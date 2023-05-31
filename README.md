@@ -1,2 +1,2 @@
 # company-hub
-Company-hub application.
+Company-Hub application.
